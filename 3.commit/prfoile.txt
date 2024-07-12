@@ -1,2 +1,2 @@
-email :
-gitID :
+email : russee201916545@gmail.com
+gitID : KJH622
